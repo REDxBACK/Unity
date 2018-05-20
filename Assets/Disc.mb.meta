@@ -1,26 +1,16 @@
 fileFormatVersion: 2
-guid: 9f4abc7bf3ba3a449a93f48630382454
-timeCreated: 1526754808
+guid: fb10213f5adac194788bd414b71a6eb3
+timeCreated: 1526854683
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: pCube1
-    100002: pCube2
-    100004: pCube4
-    100006: transform1
-    100008: transform2
-    100010: //RootNode
-    400000: pCube1
-    400002: pCube2
-    400004: pCube4
-    400006: transform1
-    400008: transform2
-    400010: //RootNode
-    2300000: pCube4
-    3300000: pCube4
-    4300000: pCube4
-    6400000: pCube4
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCylinder1
+    6400000: //RootNode
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -50,8 +40,8 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
-    importBlendShapes: 1
+    addColliders: 1
+    importBlendShapes: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
