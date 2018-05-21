@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraChange.cs" />
+    <Compile Include="Assets\Scripts\CameraPause.cs" />
     <Compile Include="Assets\Scripts\RopeScript.cs" />
     <Compile Include="Assets\Scripts\StartOnClick.cs" />
     <Compile Include="Assets\Scripts\Weightscript.cs" />
